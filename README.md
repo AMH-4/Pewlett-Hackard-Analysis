@@ -5,9 +5,8 @@
 ## Overview of Project:
 
 #### *Purpose:*
-A 'silver tusami' is inevitable to the Pewlett-Hackard company as many current employees reach retirement age. In an effort to prepare this change in the company, an analysis on the employee database has been executed using SQL techniques. The Data file listed above contains additional files that aid in this following analysis. This analysis consists of two main deliverables: 
+A 'silver tusami' is inevitable to the Pewlett-Hackard company as many current employees reach retirement age. In an effort to prepare this change in the company, an analysis on the employee database has been executed using SQL techniques. The Data folder contains additional files that aid in this following analysis. This analysis consists of two main deliverables: 
 
-In this analysis the following two assignments were given for analysis:
 - Deliverable #1: Determine the number of retiring employees per title
 - Deliverable #2: Identify employees who are eligible to participate in a mentorship program
 
