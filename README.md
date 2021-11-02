@@ -1,5 +1,5 @@
 # **Pewlett-Hackard-Analysis**
-# **Complete analysis on an employee database using SQL techniques**
+**Complete analysis on an employee database using SQL techniques**
 
 
 ## Overview of Project:
