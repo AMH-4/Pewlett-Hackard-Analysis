@@ -12,15 +12,15 @@ A 'silver tusami' is inevitable to the Pewlett-Hackard company as many current e
 
 
 ## Results 
+Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-#### *Deliverable #1:*
--
--
--
--
+-There are a total of 77,598 employees eligible for upcoming retirement. Of this amount, 29,414 employeees have the title "Senior Engineer" and 2 have the title "Manager". 
+-Unique Titles
+-Retiring Titles
+-Mentorship Eligibility: 
 
-
-#### *Deliverable #2:*
+#### *Deliverable #1:Determine the number of retiring employees per title*
+#### *Deliverable #2: Identify employees who are eligible to participate in a mentorship program*
 -
 -
 -
