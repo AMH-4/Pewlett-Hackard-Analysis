@@ -23,16 +23,22 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 #### *Deliverable #1:Determine the number of retiring employees per title*
 *Below are the screen-shot images of the reults of the query "Retirment Titles".*
-![Retirment_Titles)Results](retiring_titles.png)
+
+![Retirment_Titles)Results](reirment_titles.png)
+
 *Below are the screen-shot images of the reults of the query "Unique Titles.*
-![Unique_Titles)Results](retiring_titles.png)
+
+![Unique_Titles)Results](unique_titles.png)
+
 *Below are the screen-shot images of the reults of the query "Retiring Titles".*
+
 ![Retiring_Titles)Results](retiring_titles.png)
 
 
 #### *Deliverable #2: Identify employees who are eligible to participate in a mentorship program*
 *Below are the screen-shot images of the reults of the query "Mentorship Eligibility".*
-![Mentorship_Eligbility)Results](retiring_titles.png)
+
+![Mentorship_Eligbility)Results](mentorship_eligibilitys.png)
 
 
 ## Summary:
