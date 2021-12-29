@@ -13,12 +13,11 @@ A 'silver tusami' is inevitable to the Pewlett-Hackard company as many current e
 
 ## Results 
 
-- There are a total of 77,598 employees eligible for upcoming retirement. Of this amount, 29,414 employeees have the title "Senior Engineer" and 2 have the title "Manager". *See the screen-shot images of the reults of the query for retiring titles.*
+- There are a total of 77,598 employees eligible for upcoming retirement. 
+- Of this amount, 29,414 employeees have the title "Senior Engineer" and 2 have the title "Manager". 
+*See the screen-shot images of the reults of the query for retiring titles.*
 
 
-- Unique Titles
-- Retiring Titles
-- Mentorship Eligibility: 
 
 #### *Deliverable #1:Determine the number of retiring employees per title*
 *Below are the screen-shot images of the reults of the query "Retirment Titles".*
