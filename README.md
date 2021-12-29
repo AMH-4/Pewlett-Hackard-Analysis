@@ -12,7 +12,6 @@ A 'silver tusami' is inevitable to the Pewlett-Hackard company as many current e
 
 
 ## Results 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 - There are a total of 77,598 employees eligible for upcoming retirement. Of this amount, 29,414 employeees have the title "Senior Engineer" and 2 have the title "Manager". *See the screen-shot images of the reults of the query for retiring titles.*
 
@@ -44,6 +43,8 @@ Provide a bulleted list with four major points from the two analysis deliverable
 ## Summary:
 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-
+90,398 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+No
+
 
